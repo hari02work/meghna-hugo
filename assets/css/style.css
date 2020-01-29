@@ -16,7 +16,7 @@ html {
 }
 
 body {
-  background-color: #FFA300;
+  background-color: #FFFFF;
   font-family: "Anaheim", sans-serif;
   color: #737f8a;
   -webkit-font-smoothing: antialiased;
@@ -298,7 +298,7 @@ a:hover {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 38px;
-  color: #ffffff;
+  color: #ffa300;
 }
 
 .title h2 span {
