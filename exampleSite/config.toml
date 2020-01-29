@@ -33,7 +33,7 @@ weight = 7
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 googleAnalitycsID = "Your ID"
-logo = "images/harihs logo.png"
+logo = "images/harihstech logo.png"
 postShare = true
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
