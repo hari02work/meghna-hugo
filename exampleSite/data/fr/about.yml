@@ -18,5 +18,5 @@ about:
 menu:
   main:
     URL: about
-    name: About us
-    weight: "3"
+    name: About Us
+    weight: "2"
