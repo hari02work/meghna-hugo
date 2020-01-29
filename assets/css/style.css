@@ -51,12 +51,12 @@ pre {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: #57cbcc;
+  background: #ffa300;
 }
 
 ::selection {
   color: #fff;
-  background: #57cbcc;
+  background: #ffa300;
 }
 
 hr {
@@ -118,7 +118,7 @@ a:hover {
 
 .btn-transparent:hover,
 .btn-transparent:focus {
-  background-color: #57cbcc;
+  background-color: #ffa300;
   border: 1px solid transparent;
   color: #fff;
 }
@@ -140,7 +140,7 @@ a:hover {
   position: absolute;
   top: -4px;
   width: 50px;
-  background-color: #57cbcc;
+  background-color: #ffa300;
 }
 
 .color {
@@ -210,11 +210,11 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #57cbcc;
+  color: #ffa300;
 }
 
 .btn-main {
-  background: #57cbcc;
+  background: #ffa300;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -224,7 +224,7 @@ a:hover {
 }
 
 .btn-main:hover {
-  background: #2c9091;
+  background: #ff4a67;
   color: #fff;
 }
 
@@ -302,7 +302,7 @@ a:hover {
 }
 
 .title h2 span {
-  color: #57cbcc;
+  color: #ffa300;
 }
 
 .title p {
@@ -347,7 +347,7 @@ a:hover {
 }
 
 .header-bradcrumb a:hover {
-  color: #57cbcc;
+  color: #ffa300;
 }
 
 .slick-slide {
@@ -412,7 +412,7 @@ a:hover {
 }
 
 .navigation .navigation-menu li a.active {
-  color: #57cbcc;
+  color: #ffa300;
 }
 
 .navigation .navigation-menu li a {
@@ -423,7 +423,7 @@ a:hover {
 .navigation .navigation-menu li a:hover,
 .navigation .navigation-menu li a:focus {
   background: transparent;
-  color: #57cbcc;
+  color: #ffa300;
 }
 
 .navigation .navbar-toggler {
@@ -446,7 +446,7 @@ a:hover {
 }
 
 .navbar-toggler:focus {
-  outline-color: #57cbcc;
+  outline-color: #ffa300;
 }
 
 .bg-1 {
@@ -486,7 +486,7 @@ a:hover {
 
 .hero-area .block .video-button {
   background: #fff;
-  color: #57cbcc;
+  color: #ffa300;
   display: inline-block;
   height: 60px;
   width: 60px;
@@ -653,7 +653,7 @@ a:hover {
 
 .about-2 .content-block .media i {
   font-size: 30px;
-  color: #57cbcc;
+  color: #ffa300;
 }
 
 .about-2 .content-block .media h4 {
@@ -734,7 +734,7 @@ a:hover {
 .form-meghna input:hover,
 .form-meghna textarea:hover,
 #contact-submit:hover {
-  border-color: #57cbcc;
+  border-color: #ffa300;
 }
 
 .form-meghna ::placeholder {
@@ -2021,7 +2021,7 @@ blockquote {
 }
 
 .form-control-meghna .form-control:focus {
-  border-color: #57cbcc;
+  border-color: #ffa300;
   box-shadow: 0 0 0 0.2rem rgba(0, 174, 255, 0.432);
 }
 
@@ -2275,8 +2275,8 @@ figcaption {
 }
 
 .pagination .page-item .page-link:hover {
-  background: #57cbcc;
-  border-color: #57cbcc;
+  background: #ffa300;
+  border-color: #ffa300;
   color: #fff
 }
 
@@ -2286,9 +2286,9 @@ figcaption {
 }
 
 .pagination .page-item.active .page-link {
-  background: #57cbcc;
+  background: #ffa300;
   color: #fff;
-  border-color: #57cbcc;
+  border-color: #ffa300;
 }
 
 #select-language {
