@@ -2,7 +2,6 @@
 author = "hari"
 date = 2018-09-12T08:51:12Z
 description = "This is meta description"
-draft = true
 image = "images/blog/blog-post-3.jpg"
 title = "Raspberry Pi Media Server"
 
