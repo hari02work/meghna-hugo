@@ -1,11 +1,11 @@
 ---
-title: "How To Setup Meghna Hugo"
-date: 2018-09-12T14:51:12+06:00
+title: How To Setup up Nas Server
+date: 2018-09-12T08:51:12.000+00:00
 author: Mark Dinn
 image: images/blog/meghna.jpg
-description : "This is meta description"
----
+description: This is meta description
 
+---
 ## Install this template by following those simple steps:
 
 ### STEP-1 : Hugo installation
