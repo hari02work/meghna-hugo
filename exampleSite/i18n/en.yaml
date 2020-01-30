@@ -1,5 +1,6 @@
+---
 - id: blogTitle
-  translation: Latest Post
+  translation: My Recent Projects
 - id: readMore
   translation: Read more
 - id: viewAllPost
@@ -11,4 +12,5 @@
 - id: authorsPosts
   translation: Author's posts
 - id: copyright
-  translation: copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved
+  translation: copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all
+    right reserved
